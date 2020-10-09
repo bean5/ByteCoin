@@ -1,0 +1,4 @@
+ByteCoin
+---
+
+A project that...
